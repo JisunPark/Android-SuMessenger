@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147527553808",
+    "firebase_url": "https://su-messenger.firebaseio.com",
+    "project_id": "su-messenger",
+    "storage_bucket": "su-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147527553808:android:0bf9d5097e652ff5",
+        "android_client_info": {
+          "package_name": "com.suminjin.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147527553808-ll278e1h5a8v701f19l4mgf9320lbgep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suminjin.messenger",
+            "certificate_hash": "fb3c010ac943bfa2b54718e1e65fe8953b6495b0"
+          }
+        },
+        {
+          "client_id": "147527553808-k913aidunghm1ub50hq34p5lqm3t7oro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvg5cFZ0mxB9S0AT75W1FTkwefx-x9Cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147527553808-k913aidunghm1ub50hq34p5lqm3t7oro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
